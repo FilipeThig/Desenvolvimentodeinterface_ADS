@@ -25,3 +25,18 @@ Durante a pesquisa de disponibilidade do transporte para compromissos que possue
 - A confiabilidade e a atualização em tempo real das informações de horário.
 - A experiência geral de uso do aplicativo.
 - A remoção da interferência causada por anúncios.
+
+### **Como poderíamos...?**
+
+Como poderíamos ajudar estudantes e trabalhadores a confiar no horário real de chegada do transporte e consultar essas informações rapidamente, sem a interferência de anúncios no app?
+
+## As 3 propostas:
+- Rastreio em tempo real;
+  Mapa ao vivo com GPS, disponível gratuitamente.
+  
+- Reporte colaborativo;
+  Botão de reporte para o horário real coletivo.
+
+- Modo de consulta rápida.
+  Modo de visualização simplificado que prioriza o horário da linha buscada.
+
