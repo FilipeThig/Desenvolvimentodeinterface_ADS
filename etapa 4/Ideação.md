@@ -34,13 +34,66 @@ Durante a pesquisa de disponibilidade do transporte para compromissos que possue
 
 Como poderíamos ajudar estudantes e trabalhadores a confiar no horário real de chegada do transporte e consultar essas informações rapidamente, sem a interferência de anúncios no app?
 
-## As 3 propostas:
-- Rastreio em tempo real;
-  Mapa ao vivo com GPS, disponível gratuitamente.
-  
-- Reporte colaborativo;
-  Botão de reporte para o horário real coletivo.
 
-- Modo de consulta rápida.
-  Modo de visualização simplificado que prioriza o horário da linha buscada.
+### 💡 Ideia 1
 
+**Rastreio em tempo real**  
+**Descrição:**  
+ Mapa ao vivo com GPS, disponível gratuitamente.
+
+**Como funciona?**  
+ Mapa no aplicativo que mostra onde o transporte se encontra naquele momento.
+
+**Qual dor da jornada resolve?**  
+ Resolve o problema do rastreio do atraso do transporte.
+
+**Benefício para o usuário:**  
+ Mais confiabilidade no horário do app.
+
+**Principais funcionalidades:**  
+ Mapa ao vivo com GPS.
+
+**Possíveis limitações:**
+ Má conexão com a internet.
+
+### 💡 Ideia 2
+
+**Reporte colaborativo**  
+**Descrição:**  
+Botão de reporte para o horário real coletivo.
+
+**Como funciona?**  
+Usuários do app relatam e confirmam se o transporte está ou no horário ou não.
+
+**Qual dor da jornada resolve?**  
+A identificação de possíveis atrasos não reportados pelo app automaticamente.
+
+**Benefício para o usuário:**  
+Mais facilidade para verificar os horários.
+
+**Principais funcionalidades:**  
+Botão de fácil acesso no app para reporte.
+
+**Possíveis limitações:**  
+Reportes errados por parte dos usuários.
+
+### 💡 Ideia 3
+
+**Modo de consulta rápida**  
+**Descrição:**  
+Modo de visualização simplificado que prioriza o horário da linha buscada.
+
+**Como funciona?**  
+Modo de acesso rápido para pesquisa de linhas fixadas.
+
+**Qual dor da jornada resolve?**  
+Tempo perdido navegando por anúncios para encontrar a informação.
+
+**Benefício para o usuário:**  
+Acesso mais rápido ao dado mais importante.
+
+**Principais funcionalidades:**  
+Modo "Consulta rápida", linhas favoritas, delay de anúncios pós consultas
+
+**Possíveis limitações:**  
+Depende da mudança no modelo de monetização do app.
