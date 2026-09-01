@@ -97,3 +97,13 @@ Modo "Consulta rápida", linhas favoritas, delay de anúncios pós consultas
 
 **Possíveis limitações:**  
 Depende da mudança no modelo de monetização do app.
+
+### Tabela de Comparação das Ideias
+![Tabela](tabela.png)
+
+## Solução Escolhida
+- Permitir que os usuários reportem o horário do transporte e exibir o horário reportado de forma limpa, antes de anúncios.
+  
+### Justificativa
+- Combinar as duas ideias facilita o uso do transporte público e melhora a experiência do usuário durante o uso do app.
+
