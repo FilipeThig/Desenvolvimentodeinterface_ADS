@@ -22,6 +22,6 @@ Em qual momento essa dor acontece?
 Durante a pesquisa de disponibilidade do transporte para compromissos que possuem horários fixos.
 
 O que deveria melhorar na experiência?
-• A confiabilidade e a atualização em tempo real das informações de horário.
-• A experiência geral de uso do aplicativo.
-• A remoção da interferência causada por anúncios.
+- A confiabilidade e a atualização em tempo real das informações de horário.
+- A experiência geral de uso do aplicativo.
+- A remoção da interferência causada por anúncios.
