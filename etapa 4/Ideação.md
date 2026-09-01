@@ -1,6 +1,10 @@
 # Etapa 4 — 💡 Ideação
 ## Guia Prático para a Aula
 
+### Alunos:
+- Filipe Thiago Ribeiro Silva RA:22602209
+- Luiz Fernando Cardos Timo RA:22610307 - Github:luizcft22
+- Fellipe Cauã do Carmo RA:22550880 - Github:fellipecr-droid
 ### Qual problema queremos resolver?
 
 Os horários exibidos no app de transporte público não correspondem ao horário real de chegada e saída dos ônibus. Além disso, há uma grande quantidade de anúncios que atrapalham o uso do aplicativo durante momentos importantes.
