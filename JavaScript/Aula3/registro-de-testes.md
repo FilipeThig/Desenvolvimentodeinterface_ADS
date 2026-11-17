@@ -1,6 +1,5 @@
 # Registro de Testes
 
-  -----------------------------------------------------------------------
   Teste                   Dados de entrada        Resultado esperado
   ----------------------- ----------------------- -----------------------
   1\. Estudante aprovado  Nome: Ana; notas: 8,0,  Média: 8,0. Situação:
