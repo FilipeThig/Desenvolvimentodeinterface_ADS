@@ -16,4 +16,4 @@
 
   5\. Nota fora do        Uma das notas menor que Exibir: Use notas entre
   intervalo               0 ou maior que 10       0 e 10.
-  -----------------------------------------------------------------------
+
